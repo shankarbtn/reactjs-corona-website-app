@@ -1,9 +1,11 @@
+import CountCard from './components/CountCard';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h3>HELLO</h3>
+    <div className="container">
+      <h3 className="app-title">CORONA STATISTICS</h3>
+      <CountCard />
     </div>
   );
 }

@@ -1,4 +1,8 @@
-.App {
-  background-color: #282c34;
+.app-title {
   color: #61dafb;
+  text-align: center;
+}
+
+.card-deck .card{
+  max-width: 18rem;
 }
